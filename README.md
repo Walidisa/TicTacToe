@@ -1,3 +1,1 @@
-![Tutorial Video](https://github.com/Walidisa/TicTacToe/blob/main/Tutorial-Video.mp4)
-
-
+https://github.com/Walidisa/TicTacToe/blob/main/Tutorial-Video.mp4
